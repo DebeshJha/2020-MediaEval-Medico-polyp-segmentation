@@ -8,7 +8,7 @@ This repository aims to provide a skeleton for preparing your submission to the 
 We offer two tasks, 1. Polyp Segmentation task (required), and 2. Alogorithm efficiency task (required). 
 
 ## Task 1. Polyp Segmentation task (required)
-For task 1, please submit the prediction masks in a zip file. Please keep the resolution of predicted masks the same as the respective test images.
+For task 1, please submit the prediction masks in a zip file. Please keep the resolution of predicted masks, which is same as the respective test images.
 
 ## Task 2. Alogorithm efficiency task (required)
 For, task 2, please submit the docker image. 
