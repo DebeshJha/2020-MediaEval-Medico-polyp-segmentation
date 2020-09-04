@@ -3,7 +3,7 @@ The “Medico automatic polyp segmentation task” aims to develop computer-aide
 
 Participants will get access to a dataset consisting of 1,000 segmented polyp images from the gastrointestinal tract and a separate testing dataset. The challenge consists of two mandatory tasks, each focused on a different requirement for efficient polyp detection. We hope that this task encourages multimedia researchers to apply their vast knowledge to the medical field and make an impact that may affect real lives.
 
-# Task Description
+## Task Description
 The participants are invited to submit the results on the following tasks:
 
 1) Polyp segmentation task (required) - The polyp segmentation task asks participants to develop algorithms for segmenting polyps on a comprehensive dataset.
@@ -25,7 +25,7 @@ The task will use mean Intersection over Union (mIoU) or Jaccard index as an eva
 ## Rules
 A participating team will be allowed to make a maximum of 5 submissions. The test data can not be used while training the model. The results will be evaluated by the organizers and presented at MediaEval 2020.
 
-# Task Organizers
+## Task Organizers
 * Debesh Jha, SimulaMet debesh (at) simula.no, 
 * Steven Hicks, SimulaMet steven (at) simula.no, SimulaMet 
 * Michael Riegler, SimulaMet 
