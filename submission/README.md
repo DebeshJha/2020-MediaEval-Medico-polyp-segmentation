@@ -16,16 +16,15 @@ For, task 2, please submit the docker image.
 For starters, we require that each submission is delivered in the form of a Docker image. This Docker image should create the submission file described in the challenge description. If you are new to docker, a good place to start is the [Get Started](https://docs.docker.com/get-started/) page of the official Docker documentation.
 
 
-To participate, we require you to build a Docker image of your submission which includes all required dependencies and can be run using the latest version of Docker. Please note that the data should not be included within the Docker image itself, as it will be injected by us. Assume that the test dataset will be located at `/biomedia`. An example submission is included within this repository, where we show an example of a Keras based submission.
+To participate, we require you to build a Docker image of your submission which includes all required dependencies and can be run using the latest version of Docker. Please note that the data should not be included within the Docker image itself, as it will be injected by us. Assume that the test dataset will be located at `/biomedia`. An example submission is included within this repository, where we show an example of a TesnsorFlow (Keras) based submission.
 
 ## Testing your Docker image
 To test you submission, run the following bash command:
 
 ```bash
-sudo docker run -v <test_set_location>:/biomedia -a stdin -a stdout -a stderr <docker_id> > biomedia_submission.txt 
+sudo docker run -v <test_set_location>:/biomedia -a stdin -a stdout -a stderr <docker_id> 
 ```
 
-The results should be a `.txt` file in the format of the example shown in the file `example_biomedia_submission.txt` located within this repository.
 
 ## Submitting your Docker Image
 
