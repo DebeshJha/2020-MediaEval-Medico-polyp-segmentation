@@ -9,10 +9,10 @@ We thank you for participating in the "Medico automatic polyp segmentation chall
 
 We offer two tasks, 1. Polyp Segmentation task (required), and 2. Alogorithm efficiency task (required). 
 
-## Task 1 (Polyp Segmentation task (required))
+## Task 1. Polyp Segmentation task (required)
 For the task 1, please submit the prediction masks in a zip file. 
 
-## Task 2 (Alogorithm efficiency task (required))
+## Task 2. Alogorithm efficiency task (required)
 For, task 2, please submit the docker image. 
 
 For starters, we require that each submission is delivered in the form of a Docker image. This Docker image should create the submission file described in the challenge description. If you are new to docker, a good place to start is the [Get Started](https://docs.docker.com/get-started/) page of the official Docker documentation.
