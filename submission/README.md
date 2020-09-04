@@ -3,8 +3,6 @@
 This repository aims to provide a skeleton for preparing your submission to the [Medico automatic polyp segmentation challenge](https://multimediaeval.github.io/editions/2020/tasks/medico/).
 
 
-We thank you for participating in the "Medico automatic polyp segmentation challenge" and wish you the best of luck.
-
 ## How to Participate
 
 We offer two tasks, 1. Polyp Segmentation task (required), and 2. Alogorithm efficiency task (required). 
@@ -38,5 +36,7 @@ sudo docker save <docker_id> > biomedia_image.tar
 ```
 
 This command will produce a tar file of your Docker image which can easily be sent to one of the organizers of Biomedia 2019. Once the Docker image is exported, submit it to one of the following email addresses; debesh@simula.no, or steven@simula.no.
+
+We thank you for participating in the "Medico automatic polyp segmentation challenge" and wish you the best of luck.
 
 For any questions, feel free to contact debesh@simula.no or steven@simula.no.
