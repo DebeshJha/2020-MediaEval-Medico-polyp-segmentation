@@ -21,8 +21,14 @@ The test data is released now!!
 
 The data is available at https://drive.google.com/drive/folders/1iZwLDFIh3Z7hn-SOcbbive7Lw4F-XeQ0?usp=sharing
 
-## Evaluation Metrics
+## Evaluation Methodology
 The task will use mean Intersection over Union (mIoU) or Jaccard index as an evaluation metric, which is a standard metric for all medical segmentation task. Moreover, we strongly recommend calculating other standard evaluation metrics such as dice coefficient, precision, recall, F2, and frame per second (FPS) for a comprehensive evaluation.
+
+For task 1 (Polyp segmentation task (required)), please submit the predicted mask in a zip file. 
+
+For task 2 (Algorithm efficiency task (required)), please submit the docker image.  
+
+
 
 ## Rules
 A participating team will be allowed to make a maximum of 5 submissions. The test data can not be used while training the model. The results will be evaluated by the organizers and presented at MediaEval 2020.
