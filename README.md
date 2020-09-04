@@ -10,7 +10,11 @@ The participants are invited to submit the results on the following tasks:
 
 2) Algorithm efficiency task (required) - The algorithm efficiency task is similar to task one but puts a stronger emphasis on the algorithm’s speed in terms of frames-per-second. To ensure a fair evaluation, this task requires participants to submit a Docker image so that all algorithms are evaluated on the same hardware.
 
-# Data
+# Training Data
 The dataset contains 1,000 polyp images and their corresponding ground truth mask. The datasets were collected from real routine clinical examinations at Vestre Viken Health Trust (VV) in Norway by expert gastroenterologists. The VV is the collaboration of the four hospitals that provide healthcare service to 470,000 peoples. The resolution of images varies from 332✕487 to 1920✕1072 pixels. Some of the images contain green thumbnail in the lower-left corner of the images showing the position marking from the ScopeGuide (Olympus). The training dataset can be downloaded from https://datasets.simula.no/kvasir-seg/.
 
-The test data is available at https://drive.google.com/drive/folders/1iZwLDFIh3Z7hn-SOcbbive7Lw4F-XeQ0?usp=sharing
+# Test Data
+
+The test data is released now!!
+
+The data is available at https://drive.google.com/drive/folders/1iZwLDFIh3Z7hn-SOcbbive7Lw4F-XeQ0?usp=sharing
