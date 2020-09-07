@@ -56,6 +56,4 @@ sudo docker save <docker_id> > biomedia_image.tar
 
 This command will produce a tar file of your Docker image which can easily be sent to one of the organizers of Biomedia 2019. Once the Docker image is exported, submit it to one of the following email addresses; debesh@simula.no, or steven@simula.no.
 
-We thank you for participating in the "Medico automatic polyp segmentation challenge" and wish you the best of luck.
-
 For any questions, feel free to contact debesh@simula.no or steven@simula.no.
