@@ -54,6 +54,4 @@ sudo docker save <docker_id> > biomedia_image.tar
 4. sudo docker save submission_image > biomedia_image.tar
 
 
-This command will produce a tar file of your Docker image which can easily be sent to one of the organizers of Biomedia 2019. Once the Docker image is exported, submit it to one of the following email addresses; debesh@simula.no, or steven@simula.no.
-
-For any questions, feel free to contact debesh@simula.no or steven@simula.no.
+This command will produce a tar file of your Docker image which can easily be sent to one of the organizers of Biomedia 2019. Once the Docker image is exported, submit it to one of the following email addresses; debesh@simula.no, or steven@simula.no. For any questions, feel free to contact us. 
