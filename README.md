@@ -3,7 +3,7 @@ The “Medico automatic polyp segmentation task” aims to develop computer-aide
 
 Participants will get access to a dataset consisting of 1,000 segmented polyp images from the gastrointestinal tract and a separate testing dataset. The challenge consists of two mandatory tasks, each focused on a different requirement for efficient polyp detection. We hope that this task encourages multimedia researchers to apply their vast knowledge to the medical field and make an impact that may affect real lives.
 
-More information about the challenge can be found on [https://multimediaeval.github.io/editions/2020/tasks/medico/] (https://multimediaeval.github.io/editions/2020/tasks/medico/)
+More information about the challenge can be found on [https://multimediaeval.github.io/editions/2020/tasks/medico/](https://multimediaeval.github.io/editions/2020/tasks/medico/)
 
 ## Task Description
 The participants are invited to submit the results on the following tasks:
